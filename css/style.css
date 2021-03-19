@@ -1,0 +1,106 @@
+
+ /*o * ou body serve para estilizar todo o corpo*/
+body{
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Raleway', sans-serif; 
+}
+
+/* o ponto entende e identifica a class no HTML*/
+.banner {
+    background: url(../img/foto.jpg) center no-repeat;
+    background-size: cover; /*cover cobre a pag*/
+    height: 90vh;
+    padding-top: 20rem;
+    text-align: center; /*texto centralizado*/
+    color: rgb(100, 98, 98);
+    opacity: 0.8;
+}
+
+.container{
+    max-width: 1080px;
+    margin: 0 auto;
+    margin-top: 10rem;
+}
+
+.banner_titulo{
+    font-size: 5rem;
+}
+
+.banner_subtitulo{
+    font-size: 2.3rem;
+}
+
+.btn{
+    border-radius: 3rem; /*borda do botao*/
+    text-transform: uppercase; /*  */
+    padding: 1rem 2rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.btn_branco{
+    color: rgb(180, 66, 152);
+    text-decoration: none;
+}
+
+/* seção container */
+
+.sobre_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.sobre_descricao, .sobre_habilidades{
+    width: 40%;
+
+}
+
+.sobre_titulo{
+    font-size:  4rem;
+    color: rgb(214, 140, 204);
+    text-align: center;
+}
+
+.btn_roxo{
+    color:rgb(145, 8, 110);
+    margin: 50%;
+    text-align: left;
+    border: 1px solid;
+    text-decoration: space-evenly;
+}
+
+.git {
+    background: url(../img/github.png) center no-repeat;
+    background-color: rgb(175, 20, 136);
+    height: 15vh;
+    padding-top: 10rem;
+    text-align: center; /*texto centralizado*/
+    width: 33%;
+    margin-left: 0.3%;
+	display: inline-block;
+}
+
+.linkedin {
+    background: url(../img/in.png) center no-repeat;
+    background-color: rgb(206, 49, 166);
+    height: 15vh;
+    padding-top: 10rem;
+    text-align: center; /*texto centralizado*/
+    width: 33%;
+	display: inline-block;
+    margin-bottom: center;
+}
+
+.facebook {
+    background: url(../img/facebook.png) center no-repeat;
+    background-color: rgb(211, 96, 182);
+    height: 15vh;
+    padding-top: 10rem;
+    text-align: center; /*texto centralizado*/
+    width: 33%;
+	display: inline-block;
+    margin-right: 1px; 
+}
+
