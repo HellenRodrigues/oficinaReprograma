@@ -26,11 +26,11 @@ nossa página para o site Netlify, no qual transforma nossos códigos em página
 * [Código das cores no css](https://www.devmedia.com.br/css-colors/36827)
 * [Editando as margens](https://guilhermemuller.com.br/ead/html-css-na-pratica/margens-bordas-box-model#:~:text=Ao%20inv%C3%A9s%20de%20digitar%20uma,%2C%20como%20padding%3A%2010px%3B%20.)
 
-💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜
+💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜
 
 ## Considerações finais:
 
 - Para mim foi de grande valia participar desse dia tão especial. E hoje, saber que faço parte
 da turma 10 de Front-end é um prazer imensuravel. Desejo aprender muito mais com essas amigas e professoras maravilhosas! 
 
-💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜
+💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜💜
